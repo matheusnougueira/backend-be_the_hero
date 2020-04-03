@@ -1,6 +1,6 @@
 # API
 
-## Backend da aplicação
+Backend da aplicação
 
 ## 💻 Tecnologias
 
